@@ -1,0 +1,12 @@
+.home {
+  margin: 1rem;
+  height: auto;
+  &__whatsapp {
+    display: flow-root;
+    position: fixed;
+    z-index: 1;
+    right: 2rem;
+    bottom: 4rem;
+    opacity: 0.6;
+  }
+}
